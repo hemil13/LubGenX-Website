@@ -8,7 +8,7 @@ export default function Delivery() {
     {
       icon: Zap,
       title: "Same-Day Delivery",
-      desc: "Order before 2 PM and get your lubricants delivered anywhere in Ahmedabad the same day.",
+      desc: "Order before 2 PM and get your lubricants delivered anywhere in Gujarat the same day.",
       color: "text-amber-500",
       bg: "bg-amber-50",
     },

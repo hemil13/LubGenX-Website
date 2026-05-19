@@ -39,7 +39,7 @@ export default function CTA() {
             </div>
             
             <p className="mt-8 text-sm text-green-100/80">
-              WhatsApp Support Available • Ahmedabad Location
+              WhatsApp Support Available • Gujarat Wide Network
             </p>
           </div>
         </motion.div>

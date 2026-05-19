@@ -27,7 +27,7 @@ export default function Hero() {
                 <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-lubgenx-primary opacity-75"></span>
                 <span className="relative inline-flex rounded-full h-2.5 w-2.5 bg-lubgenx-primary"></span>
               </span>
-              Ahmedabad's Premium B2B Platform
+              Gujarat's Premium B2B Platform
             </div>
             
             <h1 className="text-5xl md:text-6xl font-extrabold text-slate-900 leading-[1.1] tracking-tight">

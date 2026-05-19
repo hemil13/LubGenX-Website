@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 import { Truck, ShieldCheck, Wrench, Package, Smartphone, Layers, CheckCircle2, HeadphonesIcon } from "lucide-react";
 
 const features = [
-  { icon: Truck, title: "Same Day Delivery", desc: "Get your lubricants delivered across Ahmedabad on the very same day." },
+  { icon: Truck, title: "Same Day Delivery", desc: "Get your lubricants delivered across Gujarat on the very same day." },
   { icon: ShieldCheck, title: "Genuine Products", desc: "100% authentic products sourced directly from trusted manufacturers." },
   { icon: Wrench, title: "Garage Focused", desc: "Built exclusively for mechanics, workshops, and distribution businesses." },
   { icon: Package, title: "Bulk Ordering", desc: "Effortlessly manage wholesale purchases with transparent pricing." },

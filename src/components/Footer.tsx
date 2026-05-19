@@ -75,7 +75,7 @@ export default function Footer() {
             &copy; {new Date().getFullYear()} Spectrum Lubricants. All rights reserved.
           </p>
           <p className="text-sm text-slate-400">
-            Built for Ahmedabad Garages.
+            Built for Gujarat Garages.
           </p>
         </div>
       </div>

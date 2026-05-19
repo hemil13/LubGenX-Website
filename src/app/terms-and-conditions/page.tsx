@@ -77,7 +77,7 @@ export default function TermsAndConditions() {
             <section className="mb-8">
               <h2 className="text-2xl font-bold text-slate-800 mb-4">5. Delivery</h2>
               <ul className="list-disc pl-5 text-slate-600 mb-4 space-y-2">
-                <li>We offer same-day delivery in Ahmedabad for orders placed before 4:00 PM</li>
+                <li>We offer same-day delivery across Gujarat for orders placed before 4:00 PM</li>
                 <li>Delivery is free on all orders</li>
                 <li>Delivery times are estimates — we are not liable for delays caused by traffic, weather or other factors outside our control</li>
                 <li>You must ensure someone is available at the delivery address to receive the order</li>
