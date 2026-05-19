@@ -15,7 +15,7 @@ export default function WhyLubGenX() {
     <section className="py-24 bg-lubgenx-light relative overflow-hidden">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
-          
+
           {/* Image/Visual Side */}
           <motion.div
             initial={{ opacity: 0, x: -30 }}
@@ -29,14 +29,17 @@ export default function WhyLubGenX() {
                 {/* Abstract graphic representing B2B network */}
                 <div className="absolute inset-0 bg-gradient-to-br from-green-50 to-lubgenx-light flex items-center justify-center p-8">
                   <div className="w-full h-full border-2 border-dashed border-lubgenx-primary/30 rounded-full flex items-center justify-center relative animate-[spin_20s_linear_infinite]">
-                    <div className="w-32 h-32 bg-white rounded-full shadow-md flex items-center justify-center absolute -top-16">
+                    <div className="w-32 h-32 bg-white rounded-full shadow-md flex items-center justify-center absolute -top-12 left-1/2 -translate-x-1/2">
                       <span className="text-lubgenx-primary font-bold">Castrol</span>
                     </div>
-                    <div className="w-24 h-24 bg-white rounded-full shadow-md flex items-center justify-center absolute -bottom-12 -left-4">
+                    <div className="w-24 h-24 bg-white rounded-full shadow-md flex items-center justify-center absolute top-1/2 -left-8 -translate-y-1/2">
                       <span className="text-lubgenx-primary font-bold">Mobil</span>
                     </div>
-                    <div className="w-28 h-28 bg-white rounded-full shadow-md flex items-center justify-center absolute -bottom-8 -right-8">
+                    <div className="w-28 h-28 bg-white rounded-full shadow-md flex items-center justify-center absolute top-1/2 -right-10 -translate-y-1/2">
                       <span className="text-lubgenx-primary font-bold">Servo</span>
+                    </div>
+                    <div className="w-28 h-28 bg-white rounded-full shadow-md flex items-center justify-center absolute -bottom-10 left-1/2 -translate-x-1/2">
+                      <span className="text-lubgenx-primary font-bold">LubGenX</span>
                     </div>
                   </div>
                   <div className="w-32 h-32 bg-lubgenx-primary rounded-full absolute shadow-xl flex items-center justify-center">
@@ -61,15 +64,15 @@ export default function WhyLubGenX() {
               <span className="text-lubgenx-primary">Business Ecosystem</span>
             </h2>
             <p className="text-slate-600 text-lg mb-8 leading-relaxed">
-              We understand the challenges mechanics and garage owners face. 
-              LubGenX bridges the gap between manufacturers and workshops, 
-              providing a seamless digital platform to manage stock, 
+              We understand the challenges mechanics and garage owners face.
+              LubGenX bridges the gap between manufacturers and workshops,
+              providing a seamless digital platform to manage stock,
               track orders, and discover new products efficiently.
             </p>
 
             <ul className="space-y-4">
               {points.map((point, idx) => (
-                <motion.li 
+                <motion.li
                   key={idx}
                   initial={{ opacity: 0, y: 10 }}
                   whileInView={{ opacity: 1, y: 0 }}
