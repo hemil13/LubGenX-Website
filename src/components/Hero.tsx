@@ -83,7 +83,7 @@ export default function Hero() {
                     <div className="flex justify-between items-end">
                       <div>
                         <p className="text-xs text-slate-500 font-medium mb-1">Recent Order</p>
-                        <p className="font-bold text-slate-800">Castrol MAGNATEC</p>
+                        <p className="font-bold text-slate-800 text-sm">LubGenX PREMIUM</p>
                         <p className="text-sm font-medium text-lubgenx-primary mt-1">Delivering Today</p>
                       </div>
                       <div className="w-12 h-12 bg-white rounded-xl shadow-sm flex items-center justify-center">

@@ -1,5 +1,33 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-  <rect width="100" height="100" rx="20" fill="#0B6B3A"/>
-  <path d="M40 30c-5.5 0-10 4.5-10 10s4.5 10 10 10c2.8 0 5.3-1.1 7.1-2.9l12.9 12.9H50v10h20v-20H60v10L47.1 37.1C48.9 35.3 50 32.8 50 30c0-5.5-4.5-10-10-10zm0 5c2.8 0 5 2.2 5 5s-2.2 5-5 5-5-2.2-5-5 2.2-5 5-5z" fill="#ffffff"/>
-  <circle cx="70" cy="30" r="5" fill="#ffffff"/>
+  <rect width="100" height="100" rx="15" fill="#0B6B3A"/>
+  
+  <!-- Base -->
+  <path d="M35 85 h24 l-4 -15 h-16 z" fill="#ffffff"/>
+  
+  <!-- Joint 1 -->
+  <circle cx="47" cy="68" r="11" fill="#ffffff"/>
+  <circle cx="47" cy="68" r="4" fill="#0B6B3A"/>
+  
+  <!-- Arm 1 (diagonal up-left) -->
+  <path d="M38 61 L22 42 L34 33 L50 52 Z" fill="#ffffff"/>
+  
+  <!-- Joint 2 -->
+  <circle cx="28" cy="38" r="9" fill="#ffffff"/>
+  <circle cx="28" cy="38" r="4" fill="#0B6B3A"/>
+  
+  <!-- Arm 2 (horizontal-ish right) -->
+  <path d="M25 31 L52 26 L55 38 L28 43 Z" fill="#ffffff"/>
+  
+  <!-- Wrist -->
+  <circle cx="53" cy="32" r="7" fill="#ffffff"/>
+  <circle cx="53" cy="32" r="2.5" fill="#0B6B3A"/>
+  
+  <!-- Gripper Base -->
+  <path d="M58 24 h8 v16 h-8 z" fill="#ffffff"/>
+  
+  <!-- Top Claw -->
+  <path d="M64 26 L78 20 L82 27 L73 32 Z" fill="#ffffff"/>
+  
+  <!-- Bottom Claw -->
+  <path d="M64 38 L78 44 L82 37 L73 32 Z" fill="#ffffff"/>
 </svg>
