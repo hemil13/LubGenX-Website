@@ -153,7 +153,7 @@ export default function TermsAndConditions() {
                 <p className="font-bold text-slate-800">Harsh Brahmbhatt</p>
                 <p className="text-slate-600">Co-Founder & CEO, LubGenX</p>
                 <p className="text-slate-600">Spectrum Lubricants, Ahmedabad, Gujarat, India</p>
-                <p className="text-lubgenx-primary mt-2">brahmbhattharsh2@gmail.com</p>
+                <p className="text-lubgenx-primary mt-2">spectrumlubs@gmail.com</p>
                 <p className="text-lubgenx-primary">+91 90546 92226</p>
               </div>
             </section>

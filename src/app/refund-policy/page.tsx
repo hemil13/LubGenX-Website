@@ -146,7 +146,7 @@ export default function RefundPolicy() {
               <div className="bg-slate-50 p-6 rounded-xl border border-slate-100">
                 <p className="font-bold text-slate-800">LubGenX Customer Support</p>
                 <p className="text-slate-600">+91 90546 92226 (WhatsApp preferred)</p>
-                <p className="text-slate-600">brahmbhattharsh2@gmail.com</p>
+                <p className="text-slate-600">spectrumlubs@gmail.com</p>
                 <p className="text-slate-600 mt-2">Monday to Saturday, 9:00 AM to 7:00 PM</p>
                 <p className="text-slate-600 mt-2">
                   Spectrum Lubricants<br/>

@@ -60,11 +60,11 @@ export default function Footer() {
               </li>
               <li className="flex items-center gap-3">
                 <Phone size={18} className="text-lubgenx-primary shrink-0" />
-                <a href="tel:+919000000000" className="hover:text-lubgenx-primary transition-colors">+91 90000 00000</a>
+                <a href="https://wa.me/919054692226" target="_blank" rel="noopener noreferrer" className="hover:text-lubgenx-primary transition-colors">+91 90546 92226</a>
               </li>
               <li className="flex items-center gap-3">
                 <Mail size={18} className="text-lubgenx-primary shrink-0" />
-                <a href="mailto:support@lubgenx.com" className="hover:text-lubgenx-primary transition-colors">support@lubgenx.com</a>
+                <a href="mailto:spectrumlubs@gmail.com" className="hover:text-lubgenx-primary transition-colors">spectrumlubs@gmail.com</a>
               </li>
             </ul>
           </div>

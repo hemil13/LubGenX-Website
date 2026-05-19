@@ -96,7 +96,7 @@ export default function PrivacyPolicy() {
                 <li>Withdraw consent at any time</li>
               </ul>
               <p className="text-slate-600 mt-4">
-                To exercise any of these rights contact us at <strong>brahmbhattharsh2@gmail.com</strong>. You can request deletion of your account and data at any time by emailing us.
+                To exercise any of these rights contact us at <strong>spectrumlubs@gmail.com</strong>. You can request deletion of your account and data at any time by emailing us.
               </p>
             </section>
 
@@ -134,7 +134,7 @@ export default function PrivacyPolicy() {
                 <p className="font-bold text-slate-800">Harsh Brahmbhatt</p>
                 <p className="text-slate-600">Co-Founder & CEO, LubGenX</p>
                 <p className="text-slate-600">Spectrum Lubricants, Ahmedabad, Gujarat, India</p>
-                <p className="text-lubgenx-primary mt-2">brahmbhattharsh2@gmail.com</p>
+                <p className="text-lubgenx-primary mt-2">spectrumlubs@gmail.com</p>
                 <p className="text-lubgenx-primary">+91 90546 92226</p>
               </div>
             </section>

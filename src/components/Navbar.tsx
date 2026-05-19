@@ -53,7 +53,9 @@ export default function Navbar() {
         {/* CTAs */}
         <div className="hidden md:flex items-center gap-4">
           <a
-            href="#contact"
+            href="https://wa.me/919054692226"
+            target="_blank"
+            rel="noopener noreferrer"
             className="text-sm font-medium text-lubgenx-primary hover:text-lubgenx-secondary transition-colors"
           >
             WhatsApp Support
@@ -97,7 +99,9 @@ export default function Navbar() {
                 Get the App
               </button>
               <a
-                href="#contact"
+                href="https://wa.me/919054692226"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="text-center font-medium text-lubgenx-primary mt-2"
                 onClick={() => setMobileMenuOpen(false)}
               >
