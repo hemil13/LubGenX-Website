@@ -19,8 +19,6 @@ export default function Navbar() {
 
   const navLinks = [
     { name: "Home", href: "/" },
-    { name: "Features", href: "#features" },
-    { name: "Brands", href: "#brands" },
     { name: "Privacy Policy", href: "/privacy-policy" },
     { name: "Terms", href: "/terms-and-conditions" },
     { name: "Refund Policy", href: "/refund-policy" },
